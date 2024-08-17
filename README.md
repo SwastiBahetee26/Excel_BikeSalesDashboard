@@ -9,7 +9,7 @@ This project involves analyzing and visualizing bike sales data using Excel. The
 
 The project begins with a CSV file containing raw sales data:
 
-- **sales.csv** - Contains customer information and details about the vehicles they own.
+- **Sales.csv** - Contains customer information and details about the vehicles they own.
 
 The data was originally provided by the YouTuber [Alex The Analyst](https://www.youtube.com/c/AlexTheAnalyst) and is available on his [GitHub repository](https://github.com/AlexTheAnalyst).
 
